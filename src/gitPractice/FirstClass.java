@@ -10,4 +10,6 @@ public class FirstClass {
     public void test() {
     	System.out.println("this is from local repo");
     }
+	public void testTwo() {
+    	System.out.println("this is from local repo");
 }
