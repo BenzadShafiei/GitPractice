@@ -7,5 +7,7 @@ public class FirstClass {
 		System.out.println("this is test");
 
 	}
-
+    public void test() {
+    	System.out.println("this is from local repo");
+    }
 }
